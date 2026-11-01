@@ -34,8 +34,8 @@ The application leverages **LangChain** and **Google Gemini API** to generate cr
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
-cd <repository-folder>
+git clone https://github.com/Pratiksha248/GenAI-Restro-Cuisine-Generator.git
+cd GenAI-Restro-Cuisine-Generator
 ```
 
 ### 2. Install Dependencies
